@@ -1,0 +1,491 @@
+/* ==========================================================================
+   macOS Tahoe theme — "Liquid Glass"
+   Activated when <html data-theme="tahoe"> (user toggle in the nav bar).
+
+   Based on the macOS 26 Tahoe design language: translucent vibrancy, bright
+   saturated wallpaper, SF-style typography and pill-shaped controls.
+   ========================================================================== */
+
+[data-theme="tahoe"] {
+  --color-primary: #0a84ff;
+  --color-primary-dark: #0060df;
+  --color-dark: #1d1d1f;
+  --color-accent: #ff9f0a;
+  --color-correct: #30d158;
+  --color-wrong: #ff453a;
+  /* Official Apple SF Pro typefaces (macOS/iOS system fonts). The Google
+     Fonts used by the classic theme (Sora/Inter) are intentionally excluded
+     from the stack so the two themes are visually distinct. */
+  --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", sans-serif;
+}
+
+[data-theme="tahoe"] .menu-title,
+[data-theme="tahoe"] nav a,
+[data-theme="tahoe"] .brand,
+[data-theme="tahoe"] .scorebar,
+[data-theme="tahoe"] .prompt,
+[data-theme="tahoe"] .lb-title,
+[data-theme="tahoe"] .nav-lang,
+[data-theme="tahoe"] .nav-theme,
+[data-theme="tahoe"] .nav-reset,
+[data-theme="tahoe"] .nav-pause,
+[data-theme="tahoe"] .next,
+[data-theme="tahoe"] .link-btn,
+[data-theme="tahoe"] .level-btn,
+[data-theme="tahoe"] .level-name,
+[data-theme="tahoe"] .count-btn,
+[data-theme="tahoe"] .count-label,
+[data-theme="tahoe"] .btn-hero,
+[data-theme="tahoe"] .continent-chip,
+[data-theme="tahoe"] .warmup-refresh,
+[data-theme="tahoe"] .warmup-clear,
+[data-theme="tahoe"] .summary-score,
+[data-theme="tahoe"] .summary-pct,
+[data-theme="tahoe"] .player-name,
+[data-theme="tahoe"] .rank-chip,
+[data-theme="tahoe"] .flag-pick-placeholder,
+[data-theme="tahoe"] .detail-head h3 {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif;
+}
+
+/* Wallpaper — Tahoe aurora gradient --------------------------------------- */
+[data-theme="tahoe"] body {
+  background: linear-gradient(135deg, #0a84ff 0%, #64d2ff 18%, #bf5af2 42%, #ff375f 62%, #ff9f0a 82%, #30d158 100%);
+  background-size: 320% 320%;
+  animation: tahoeShift 30s ease-in-out infinite;
+}
+
+@keyframes tahoeShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+[data-theme="tahoe"] body::before {
+  background:
+    radial-gradient(800px 600px at 12% 12%, rgba(255, 255, 255, 0.28), transparent 60%),
+    radial-gradient(900px 700px at 85% 8%, rgba(255, 255, 255, 0.2), transparent 60%),
+    radial-gradient(800px 600px at 85% 85%, rgba(255, 255, 255, 0.18), transparent 60%),
+    radial-gradient(700px 500px at 15% 88%, rgba(255, 255, 255, 0.24), transparent 60%);
+  animation: none;
+}
+
+/* Main glass panel --------------------------------------------------------- */
+[data-theme="tahoe"] .layout {
+  background: rgba(250, 250, 255, 0.38);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 30px;
+  box-shadow:
+    0 30px 60px -15px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(40px) saturate(190%);
+  -webkit-backdrop-filter: blur(40px) saturate(190%);
+}
+
+/* Nav — macOS system control bar ------------------------------------------- */
+[data-theme="tahoe"] nav {
+  border-bottom: none;
+  background: rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 999px;
+  padding: 8px 16px;
+  box-shadow:
+    0 8px 24px -8px rgba(0, 0, 0, 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(30px) saturate(190%);
+  -webkit-backdrop-filter: blur(30px) saturate(190%);
+}
+
+[data-theme="tahoe"] nav a:hover {
+  background: rgba(255, 255, 255, 0.35);
+  color: #0060df;
+}
+
+[data-theme="tahoe"] .nav-lang,
+[data-theme="tahoe"] .nav-theme {
+  color: #1d1d1f;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 999px;
+}
+
+[data-theme="tahoe"] .nav-lang:hover,
+[data-theme="tahoe"] .nav-theme:hover {
+  background: rgba(255, 255, 255, 0.85);
+  color: #0060df;
+}
+
+[data-theme="tahoe"] .nav-theme.active {
+  background: rgba(10, 132, 255, 0.16);
+  border-color: rgba(10, 132, 255, 0.4);
+  color: #0060df;
+}
+
+[data-theme="tahoe"] .nav-reset {
+  color: #ff453a;
+  border-radius: 999px;
+}
+
+[data-theme="tahoe"] .nav-reset:hover {
+  background: rgba(255, 69, 58, 0.12);
+}
+
+[data-theme="tahoe"] .nav-pause {
+  color: #1d1d1f;
+  border-radius: 999px;
+}
+
+[data-theme="tahoe"] .nav-pause:hover {
+  background: rgba(255, 255, 255, 0.45);
+}
+
+[data-theme="tahoe"] .nav-pause.active {
+  background: rgba(10, 132, 255, 0.18);
+  border-color: rgba(10, 132, 255, 0.45);
+  color: #0060df;
+}
+
+@media (max-width: 640px) {
+  [data-theme="tahoe"] nav {
+    border-radius: 24px;
+  }
+}
+
+/* Typography --------------------------------------------------------------- */
+[data-theme="tahoe"] .app-title {
+  background: none;
+  -webkit-background-clip: initial;
+  background-clip: initial;
+  color: #1d1d1f;
+  /* SF Pro is optically tuned: tighter tracking, no faux bolds. */
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+[data-theme="tahoe"] .turn {
+  color: #0a84ff;
+}
+
+[data-theme="tahoe"] .tagline,
+[data-theme="tahoe"] .hint,
+[data-theme="tahoe"] .btn-desc,
+[data-theme="tahoe"] .progress-label,
+[data-theme="tahoe"] .warmup-cache,
+[data-theme="tahoe"] .lb-table th,
+[data-theme="tahoe"] .detail-row dt,
+[data-theme="tahoe"] .flag-pick-btn.empty,
+[data-theme="tahoe"] .level-desc {
+  color: #5b5f6b;
+}
+
+[data-theme="tahoe"] .lb-empty-row td {
+  color: #8e8e93;
+}
+
+[data-theme="tahoe"] .link-btn {
+  color: #0a84ff;
+}
+
+[data-theme="tahoe"] .link-btn:hover {
+  background: rgba(10, 132, 255, 0.12);
+}
+
+/* Buttons & primary actions ------------------------------------------------- */
+[data-theme="tahoe"] .next {
+  border-radius: 12px;
+  box-shadow: 0 4px 14px -4px rgba(10, 132, 255, 0.55);
+}
+
+[data-theme="tahoe"] .next.ghost:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+[data-theme="tahoe"] .next.ghost.blue {
+  color: #0a84ff;
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .next.ghost.blue:hover {
+  background: rgba(10, 132, 255, 0.12);
+}
+
+[data-theme="tahoe"] .count-num {
+  color: #0a84ff;
+}
+
+[data-theme="tahoe"] .rank-chip {
+  color: #0060df;
+  background: rgba(10, 132, 255, 0.12);
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .score-pill {
+  background: rgba(10, 132, 255, 0.12);
+  color: #0060df;
+}
+
+[data-theme="tahoe"] .score-pill.active {
+  background: rgba(10, 132, 255, 0.22);
+  box-shadow: 0 0 0 2px #0a84ff;
+}
+
+[data-theme="tahoe"] .player-chip {
+  background: rgba(255, 159, 10, 0.2);
+  border-color: rgba(255, 159, 10, 0.55);
+  color: #7a4c00;
+}
+
+/* Glass surfaces ------------------------------------------------------------ */
+[data-theme="tahoe"] .leaderboard,
+[data-theme="tahoe"] .flag-detail,
+[data-theme="tahoe"] .player-card {
+  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 20px;
+  box-shadow:
+    0 10px 30px -12px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+}
+
+[data-theme="tahoe"] .btn-hero,
+[data-theme="tahoe"] .count-btn,
+[data-theme="tahoe"] .nick-input,
+[data-theme="tahoe"] .flag-pick-btn,
+[data-theme="tahoe"] .flag-pick-search,
+[data-theme="tahoe"] .gallery-search,
+[data-theme="tahoe"] .continent-chip,
+[data-theme="tahoe"] .flag-pick-item,
+[data-theme="tahoe"] .border-chip,
+[data-theme="tahoe"] .option {
+  background: rgba(255, 255, 255, 0.5);
+  border-color: rgba(255, 255, 255, 0.65);
+  box-shadow: 0 2px 10px -6px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="tahoe"] .btn-hero {
+  border-radius: 20px;
+}
+
+[data-theme="tahoe"] .btn-hero:hover {
+  box-shadow: 0 14px 30px -10px rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="tahoe"] .btn-hero.it:hover {
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .btn-hero.en:hover {
+  border-color: #bf5af2;
+}
+
+[data-theme="tahoe"] .count-btn {
+  border-radius: 18px;
+}
+
+[data-theme="tahoe"] .count-btn:hover {
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .nick-input,
+[data-theme="tahoe"] .flag-pick-btn,
+[data-theme="tahoe"] .flag-pick-search,
+[data-theme="tahoe"] .gallery-search {
+  border-radius: 14px;
+}
+
+[data-theme="tahoe"] .nick-input:focus,
+[data-theme="tahoe"] .flag-pick-search:focus,
+[data-theme="tahoe"] .gallery-search:focus {
+  border-color: #0a84ff;
+  box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.2);
+}
+
+[data-theme="tahoe"] .flag-pick-btn:hover,
+[data-theme="tahoe"] .flag-pick-item:hover,
+[data-theme="tahoe"] .border-chip:hover,
+[data-theme="tahoe"] .continent-chip:hover,
+[data-theme="tahoe"] .option:not(:disabled):hover {
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .flag-pick-item.selected {
+  border-color: #0a84ff;
+  background: rgba(10, 132, 255, 0.12);
+}
+
+[data-theme="tahoe"] .continent-chip.active {
+  background: #0a84ff;
+  border-color: #0a84ff;
+}
+
+[data-theme="tahoe"] .flag-pick-panel {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 16px;
+  box-shadow: 0 20px 44px -16px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(30px) saturate(180%);
+  -webkit-backdrop-filter: blur(30px) saturate(180%);
+}
+
+/* Difficulty list ----------------------------------------------------------- */
+[data-theme="tahoe"] .level-btn {
+  background: color-mix(in srgb, hsl(var(--lv) 60% 92%) 40%, rgba(255, 255, 255, 0.55));
+  border-color: color-mix(in srgb, hsl(var(--lv) 45% 45%) 40%, rgba(255, 255, 255, 0.65));
+  border-radius: 14px;
+}
+
+[data-theme="tahoe"] .level-btn:hover {
+  border-color: hsl(var(--lv) 45% 45%);
+  box-shadow: 0 10px 22px -10px rgba(0, 0, 0, 0.25);
+}
+
+/* Quiz ---------------------------------------------------------------------- */
+[data-theme="tahoe"] .progress-track,
+[data-theme="tahoe"] .countdown-track,
+[data-theme="tahoe"] .time-bar {
+  background: rgba(255, 255, 255, 0.55);
+}
+
+[data-theme="tahoe"] .progress-fill,
+[data-theme="tahoe"] .time-bar-fill {
+  background: linear-gradient(90deg, #0a84ff, #bf5af2, #ff375f);
+}
+
+[data-theme="tahoe"] .countdown-fill {
+  background: linear-gradient(90deg, #0a84ff, #64d2ff);
+}
+
+[data-theme="tahoe"] .countdown.low .countdown-fill {
+  background: linear-gradient(90deg, #ff453a, #ff9f0a);
+}
+
+[data-theme="tahoe"] .big-flag {
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 12px 28px -10px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="tahoe"] .option {
+  border-radius: 14px;
+}
+
+[data-theme="tahoe"] .option img {
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px -6px rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="tahoe"] .option.correct {
+  background: rgba(48, 209, 88, 0.18);
+  border-color: #30d158;
+}
+
+[data-theme="tahoe"] .option.wrong {
+  background: rgba(255, 69, 58, 0.15);
+  border-color: #ff453a;
+}
+
+[data-theme="tahoe"] .opt-number-name {
+  color: #0a84ff;
+}
+
+/* Summary ------------------------------------------------------------------- */
+[data-theme="tahoe"] .summary-ring {
+  background: conic-gradient(
+    #0a84ff calc(var(--pct) * 1%),
+    rgba(0, 0, 0, 0.08) 0
+  );
+}
+
+[data-theme="tahoe"] .summary-ring::before {
+  background: rgba(255, 255, 255, 0.85);
+}
+
+[data-theme="tahoe"] .summary-pct {
+  color: #0060df;
+}
+
+/* Leaderboard --------------------------------------------------------------- */
+[data-theme="tahoe"] .lb-table th {
+  border-bottom-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="tahoe"] .lb-table td {
+  border-bottom-color: rgba(0, 0, 0, 0.06);
+}
+
+[data-theme="tahoe"] .lb-table tr.me td {
+  background: rgba(10, 132, 255, 0.12);
+}
+
+[data-theme="tahoe"] .lb-lv {
+  color: #0a84ff;
+}
+
+[data-theme="tahoe"] .lb-flags-title {
+  border-top-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="tahoe"] .lb-scorers-table .lb-goals {
+  color: #0a84ff;
+}
+
+/* Gallery ------------------------------------------------------------------- */
+[data-theme="tahoe"] .tile {
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 2px 10px -6px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="tahoe"] .tile:hover {
+  box-shadow: 0 10px 22px -10px rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="tahoe"] .tile.tile-selected {
+  border-color: #0a84ff;
+  box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.25);
+}
+
+[data-theme="tahoe"] .tile img {
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 8px;
+}
+
+/* Flag detail ---------------------------------------------------------------- */
+[data-theme="tahoe"] .detail-row {
+  border-bottom-color: rgba(0, 0, 0, 0.06);
+}
+
+[data-theme="tahoe"] .detail-row:last-child {
+  border-bottom: none;
+}
+
+[data-theme="tahoe"] .detail-head img {
+  border-radius: 6px;
+  box-shadow: 0 4px 12px -6px rgba(0, 0, 0, 0.3);
+}
+
+/* Warm-up bar ----------------------------------------------------------------- */
+[data-theme="tahoe"] .warmup-bar {
+  background: rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 16px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+}
+
+[data-theme="tahoe"] .warmup-progress-fill {
+  background: #0a84ff;
+}
+
+[data-theme="tahoe"] .warmup-refresh {
+  color: #0a84ff;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 999px;
+}

@@ -1,0 +1,2148 @@
+{
+ "source": "https://flagcdn.com",
+ "count": 306,
+ "countries": [
+  {
+   "code": "AD",
+   "name": "Andorra",
+   "name_it": "Andorra",
+   "qid": "Q228",
+   "continent": "Europe"
+  },
+  {
+   "code": "AE",
+   "name": "United Arab Emirates",
+   "name_it": "Emirati Arabi Uniti",
+   "qid": "Q878",
+   "continent": "Asia"
+  },
+  {
+   "code": "AF",
+   "name": "Afghanistan",
+   "name_it": "Afghanistan",
+   "qid": "Q889",
+   "continent": "Asia"
+  },
+  {
+   "code": "AG",
+   "name": "Antigua and Barbuda",
+   "name_it": "Antigua e Barbuda",
+   "qid": "Q781",
+   "continent": "North America"
+  },
+  {
+   "code": "AI",
+   "name": "Anguilla",
+   "name_it": "Anguilla",
+   "qid": "Q25228",
+   "continent": "North America"
+  },
+  {
+   "code": "AL",
+   "name": "Albania",
+   "name_it": "Albania",
+   "qid": "Q222",
+   "continent": "Europe"
+  },
+  {
+   "code": "AM",
+   "name": "Armenia",
+   "name_it": "Armenia",
+   "qid": "Q399",
+   "continent": "Asia"
+  },
+  {
+   "code": "AO",
+   "name": "Angola",
+   "name_it": "Angola",
+   "qid": "Q916",
+   "continent": "Africa"
+  },
+  {
+   "code": "AQ",
+   "name": "Antarctica",
+   "name_it": "Antartide",
+   "qid": "Q51",
+   "continent": ""
+  },
+  {
+   "code": "AR",
+   "name": "Argentina",
+   "name_it": "Argentina",
+   "qid": "Q414",
+   "continent": "South America"
+  },
+  {
+   "code": "AS",
+   "name": "American Samoa",
+   "name_it": "Samoa Americane",
+   "qid": "Q16641",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "AT",
+   "name": "Austria",
+   "name_it": "Austria",
+   "qid": "Q40",
+   "continent": "Europe"
+  },
+  {
+   "code": "AU",
+   "name": "Australia",
+   "name_it": "Australia",
+   "qid": "Q408",
+   "continent": "Oceania"
+  },
+  {
+   "code": "AW",
+   "name": "Aruba",
+   "name_it": "Aruba",
+   "qid": "Q21203",
+   "continent": "North America"
+  },
+  {
+   "code": "AX",
+   "name": "Åland",
+   "name_it": "Isole Åland",
+   "qid": "Q5689",
+   "continent": ""
+  },
+  {
+   "code": "AZ",
+   "name": "Azerbaijan",
+   "name_it": "Azerbaigian",
+   "qid": "Q227",
+   "continent": "Asia"
+  },
+  {
+   "code": "BA",
+   "name": "Bosnia and Herzegovina",
+   "name_it": "Bosnia ed Erzegovina",
+   "qid": "Q225",
+   "continent": "Europe"
+  },
+  {
+   "code": "BB",
+   "name": "Barbados",
+   "name_it": "Barbados",
+   "qid": "Q244",
+   "continent": "North America"
+  },
+  {
+   "code": "BD",
+   "name": "Bangladesh",
+   "name_it": "Bangladesh",
+   "qid": "Q902",
+   "continent": "Asia"
+  },
+  {
+   "code": "BE",
+   "name": "Belgium",
+   "name_it": "Belgio",
+   "qid": "Q31",
+   "continent": "Europe"
+  },
+  {
+   "code": "BF",
+   "name": "Burkina Faso",
+   "name_it": "Burkina Faso",
+   "qid": "Q965",
+   "continent": "Africa"
+  },
+  {
+   "code": "BG",
+   "name": "Bulgaria",
+   "name_it": "Bulgaria",
+   "qid": "Q219",
+   "continent": "Europe"
+  },
+  {
+   "code": "BH",
+   "name": "Bahrain",
+   "name_it": "Bahrein",
+   "qid": "Q398",
+   "continent": "Asia"
+  },
+  {
+   "code": "BI",
+   "name": "Burundi",
+   "name_it": "Burundi",
+   "qid": "Q967",
+   "continent": "Africa"
+  },
+  {
+   "code": "BJ",
+   "name": "Benin",
+   "name_it": "Benin",
+   "qid": "Q962",
+   "continent": "Africa"
+  },
+  {
+   "code": "BL",
+   "name": "Saint Barthélemy",
+   "name_it": "Saint-Barthélemy",
+   "qid": "Q25362",
+   "continent": "North America"
+  },
+  {
+   "code": "BM",
+   "name": "Bermuda",
+   "name_it": "Bermuda",
+   "qid": "Q23635",
+   "continent": "North America"
+  },
+  {
+   "code": "BN",
+   "name": "Brunei",
+   "name_it": "Brunei",
+   "qid": "Q921",
+   "continent": "Asia"
+  },
+  {
+   "code": "BO",
+   "name": "Bolivia",
+   "name_it": "Bolivia",
+   "qid": "Q750",
+   "continent": "South America"
+  },
+  {
+   "code": "BQ",
+   "name": "Caribbean Netherlands",
+   "name_it": "Paesi Bassi caraibici",
+   "qid": "Q27561",
+   "continent": "North America"
+  },
+  {
+   "code": "BR",
+   "name": "Brazil",
+   "name_it": "Brasile",
+   "qid": "Q155",
+   "continent": "South America"
+  },
+  {
+   "code": "BS",
+   "name": "The Bahamas",
+   "name_it": "Bahamas",
+   "qid": "Q778",
+   "continent": "North America"
+  },
+  {
+   "code": "BT",
+   "name": "Bhutan",
+   "name_it": "Bhutan",
+   "qid": "Q917",
+   "continent": "Asia"
+  },
+  {
+   "code": "BV",
+   "name": "Bouvet Island",
+   "name_it": "isola Bouvet",
+   "qid": "Q23408",
+   "continent": "Antarctica"
+  },
+  {
+   "code": "BW",
+   "name": "Botswana",
+   "name_it": "Botswana",
+   "qid": "Q963",
+   "continent": "Africa"
+  },
+  {
+   "code": "BY",
+   "name": "Belarus",
+   "name_it": "Bielorussia",
+   "qid": "Q184",
+   "continent": "Europe"
+  },
+  {
+   "code": "BZ",
+   "name": "Belize",
+   "name_it": "Belize",
+   "qid": "Q242",
+   "continent": "North America"
+  },
+  {
+   "code": "CA",
+   "name": "Canada",
+   "name_it": "Canada",
+   "qid": "Q16",
+   "continent": "North America"
+  },
+  {
+   "code": "CC",
+   "name": "Cocos (Keeling) Islands",
+   "name_it": "Isole Cocos",
+   "qid": "Q36004",
+   "continent": "Oceania"
+  },
+  {
+   "code": "CD",
+   "name": "Democratic Republic of the Congo",
+   "name_it": "Repubblica Democratica del Congo",
+   "qid": "Q974",
+   "continent": "Africa"
+  },
+  {
+   "code": "CF",
+   "name": "Central African Republic",
+   "name_it": "Repubblica Centrafricana",
+   "qid": "Q929",
+   "continent": "Africa"
+  },
+  {
+   "code": "CG",
+   "name": "Republic of the Congo",
+   "name_it": "Repubblica del Congo",
+   "qid": "Q971",
+   "continent": "Africa"
+  },
+  {
+   "code": "CH",
+   "name": "Switzerland",
+   "name_it": "Svizzera",
+   "qid": "Q39",
+   "continent": "Europe"
+  },
+  {
+   "code": "CI",
+   "name": "Ivory Coast",
+   "name_it": "Costa d'Avorio",
+   "qid": "Q1008",
+   "continent": "Africa"
+  },
+  {
+   "code": "CK",
+   "name": "Cook Islands",
+   "name_it": "Isole Cook",
+   "qid": "Q26988",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "CL",
+   "name": "Chile",
+   "name_it": "Cile",
+   "qid": "Q298",
+   "continent": "South America"
+  },
+  {
+   "code": "CM",
+   "name": "Cameroon",
+   "name_it": "Camerun",
+   "qid": "Q1009",
+   "continent": "Africa"
+  },
+  {
+   "code": "CN",
+   "name": "People's Republic of China",
+   "name_it": "Cina",
+   "qid": "Q148",
+   "continent": "Asia"
+  },
+  {
+   "code": "CO",
+   "name": "Colombia",
+   "name_it": "Colombia",
+   "qid": "Q739",
+   "continent": "South America"
+  },
+  {
+   "code": "CR",
+   "name": "Costa Rica",
+   "name_it": "Costa Rica",
+   "qid": "Q800",
+   "continent": "North America"
+  },
+  {
+   "code": "CU",
+   "name": "Cuba",
+   "name_it": "Cuba",
+   "qid": "Q241",
+   "continent": "North America"
+  },
+  {
+   "code": "CV",
+   "name": "Cape Verde",
+   "name_it": "Capo Verde",
+   "qid": "Q1011",
+   "continent": "Africa"
+  },
+  {
+   "code": "CW",
+   "name": "Curaçao",
+   "name_it": "Curaçao",
+   "qid": "Q25279",
+   "continent": "North America"
+  },
+  {
+   "code": "CX",
+   "name": "Christmas Island",
+   "name_it": "Isola di Natale",
+   "qid": "Q31063",
+   "continent": "Asia"
+  },
+  {
+   "code": "CY",
+   "name": "Cyprus",
+   "name_it": "Cipro",
+   "qid": "Q229",
+   "continent": "Europe"
+  },
+  {
+   "code": "CZ",
+   "name": "Czech Republic",
+   "name_it": "Repubblica Ceca",
+   "qid": "Q213",
+   "continent": "Europe"
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
+   "name_it": "Germania",
+   "qid": "Q183",
+   "continent": "Europe"
+  },
+  {
+   "code": "DJ",
+   "name": "Djibouti",
+   "name_it": "Gibuti",
+   "qid": "Q977",
+   "continent": "Africa"
+  },
+  {
+   "code": "DK",
+   "name": "Denmark",
+   "name_it": "Danimarca",
+   "qid": "Q35",
+   "continent": "Europe"
+  },
+  {
+   "code": "DM",
+   "name": "Dominica",
+   "name_it": "Dominica",
+   "qid": "Q784",
+   "continent": "North America"
+  },
+  {
+   "code": "DO",
+   "name": "Dominican Republic",
+   "name_it": "Repubblica Dominicana",
+   "qid": "Q786",
+   "continent": "North America"
+  },
+  {
+   "code": "DZ",
+   "name": "Algeria",
+   "name_it": "Algeria",
+   "qid": "Q262",
+   "continent": "Africa"
+  },
+  {
+   "code": "EC",
+   "name": "Ecuador",
+   "name_it": "Ecuador",
+   "qid": "Q736",
+   "continent": "South America"
+  },
+  {
+   "code": "EE",
+   "name": "Estonia",
+   "name_it": "Estonia",
+   "qid": "Q191",
+   "continent": "Europe"
+  },
+  {
+   "code": "EG",
+   "name": "Egypt",
+   "name_it": "Egitto",
+   "qid": "Q79",
+   "continent": "Africa"
+  },
+  {
+   "code": "EH",
+   "name": "Western Sahara",
+   "name_it": "Sahara Occidentale",
+   "qid": "Q6250",
+   "continent": "Africa"
+  },
+  {
+   "code": "ER",
+   "name": "Eritrea",
+   "name_it": "Eritrea",
+   "qid": "Q986",
+   "continent": "Africa"
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "name_it": "Spagna",
+   "qid": "Q29",
+   "continent": "Europe"
+  },
+  {
+   "code": "ET",
+   "name": "Ethiopia",
+   "name_it": "Etiopia",
+   "qid": "Q115",
+   "continent": "Africa"
+  },
+  {
+   "code": "EU",
+   "name": "European Union",
+   "name_it": "Unione europea",
+   "qid": "Q458",
+   "continent": "Europe"
+  },
+  {
+   "code": "FI",
+   "name": "Finland",
+   "name_it": "Finlandia",
+   "qid": "Q33",
+   "continent": "Europe"
+  },
+  {
+   "code": "FJ",
+   "name": "Fiji",
+   "name_it": "Figi",
+   "qid": "Q712",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "FK",
+   "name": "Falkland Islands",
+   "name_it": "Isole Falkland",
+   "qid": "Q9648",
+   "continent": "South America"
+  },
+  {
+   "code": "FM",
+   "name": "Federated States of Micronesia",
+   "name_it": "Stati Federati di Micronesia",
+   "qid": "Q702",
+   "continent": "Oceania"
+  },
+  {
+   "code": "FO",
+   "name": "Faroe Islands",
+   "name_it": "Fær Øer",
+   "qid": "Q4628",
+   "continent": "Europe"
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "name_it": "Francia",
+   "qid": "Q142",
+   "continent": "Europe"
+  },
+  {
+   "code": "GA",
+   "name": "Gabon",
+   "name_it": "Gabon",
+   "qid": "Q1000",
+   "continent": "Africa"
+  },
+  {
+   "code": "GB",
+   "name": "United Kingdom",
+   "name_it": "Regno Unito",
+   "qid": "Q145",
+   "continent": "Europe"
+  },
+  {
+   "code": "GB-ENG",
+   "name": "England",
+   "name_it": "Inghilterra",
+   "qid": "Q21",
+   "continent": "Europe"
+  },
+  {
+   "code": "GB-NIR",
+   "name": "Northern Ireland",
+   "name_it": "Irlanda del Nord",
+   "qid": "Q26",
+   "continent": "Europe"
+  },
+  {
+   "code": "GB-SCT",
+   "name": "Scotland",
+   "name_it": "Scozia",
+   "qid": "Q22",
+   "continent": "Europe"
+  },
+  {
+   "code": "GB-WLS",
+   "name": "Wales",
+   "name_it": "Galles",
+   "qid": "Q25",
+   "continent": "Europe"
+  },
+  {
+   "code": "GD",
+   "name": "Grenada",
+   "name_it": "Grenada",
+   "qid": "Q769",
+   "continent": "North America"
+  },
+  {
+   "code": "GE",
+   "name": "Georgia",
+   "name_it": "Georgia",
+   "qid": "Q230",
+   "continent": "Europe"
+  },
+  {
+   "code": "GF",
+   "name": "French Guiana",
+   "name_it": "Guyana francese",
+   "qid": "Q3769",
+   "continent": "South America"
+  },
+  {
+   "code": "GG",
+   "name": "Guernsey",
+   "name_it": "Guernsey",
+   "qid": "Q25230",
+   "continent": "Europe"
+  },
+  {
+   "code": "GH",
+   "name": "Ghana",
+   "name_it": "Ghana",
+   "qid": "Q117",
+   "continent": "Africa"
+  },
+  {
+   "code": "GI",
+   "name": "Gibraltar",
+   "name_it": "Gibilterra",
+   "qid": "Q1410",
+   "continent": "Europe"
+  },
+  {
+   "code": "GL",
+   "name": "Greenland",
+   "name_it": "Groenlandia",
+   "qid": "Q223",
+   "continent": "North America"
+  },
+  {
+   "code": "GM",
+   "name": "The Gambia",
+   "name_it": "Gambia",
+   "qid": "Q1005",
+   "continent": "Africa"
+  },
+  {
+   "code": "GN",
+   "name": "Guinea",
+   "name_it": "Guinea",
+   "qid": "Q1006",
+   "continent": "Africa"
+  },
+  {
+   "code": "GP",
+   "name": "Guadeloupe",
+   "name_it": "Guadalupa",
+   "qid": "Q17012",
+   "continent": "North America"
+  },
+  {
+   "code": "GQ",
+   "name": "Equatorial Guinea",
+   "name_it": "Guinea Equatoriale",
+   "qid": "Q983",
+   "continent": "Africa"
+  },
+  {
+   "code": "GR",
+   "name": "Greece",
+   "name_it": "Grecia",
+   "qid": "Q41",
+   "continent": "Europe"
+  },
+  {
+   "code": "GS",
+   "name": "South Georgia and the South Sandwich Islands",
+   "name_it": "Georgia del Sud e isole Sandwich meridionali",
+   "qid": "Q35086",
+   "continent": "South America"
+  },
+  {
+   "code": "GT",
+   "name": "Guatemala",
+   "name_it": "Guatemala",
+   "qid": "Q774",
+   "continent": "North America"
+  },
+  {
+   "code": "GU",
+   "name": "Guam",
+   "name_it": "Guam",
+   "qid": "Q16635",
+   "continent": "Oceania"
+  },
+  {
+   "code": "GW",
+   "name": "Guinea-Bissau",
+   "name_it": "Guinea-Bissau",
+   "qid": "Q1007",
+   "continent": "Africa"
+  },
+  {
+   "code": "GY",
+   "name": "Guyana",
+   "name_it": "Guyana",
+   "qid": "Q734",
+   "continent": "South America"
+  },
+  {
+   "code": "HK",
+   "name": "Hong Kong",
+   "name_it": "Hong Kong",
+   "qid": "Q8646",
+   "continent": "Asia"
+  },
+  {
+   "code": "HM",
+   "name": "Heard Island and McDonald Islands",
+   "name_it": "Isole Heard e McDonald",
+   "qid": "Q131198",
+   "continent": "Antarctica"
+  },
+  {
+   "code": "HN",
+   "name": "Honduras",
+   "name_it": "Honduras",
+   "qid": "Q783",
+   "continent": "North America"
+  },
+  {
+   "code": "HR",
+   "name": "Croatia",
+   "name_it": "Croazia",
+   "qid": "Q224",
+   "continent": "Europe"
+  },
+  {
+   "code": "HT",
+   "name": "Haiti",
+   "name_it": "Haiti",
+   "qid": "Q790",
+   "continent": "North America"
+  },
+  {
+   "code": "HU",
+   "name": "Hungary",
+   "name_it": "Ungheria",
+   "qid": "Q28",
+   "continent": "Europe"
+  },
+  {
+   "code": "ID",
+   "name": "Indonesia",
+   "name_it": "Indonesia",
+   "qid": "Q252",
+   "continent": "Asia"
+  },
+  {
+   "code": "IE",
+   "name": "Ireland",
+   "name_it": "Irlanda",
+   "qid": "Q27",
+   "continent": "Europe"
+  },
+  {
+   "code": "IL",
+   "name": "Israel",
+   "name_it": "Israele",
+   "qid": "Q801",
+   "continent": "Asia"
+  },
+  {
+   "code": "IM",
+   "name": "Isle of Man",
+   "name_it": "isola di Man",
+   "qid": "Q9676",
+   "continent": "Europe"
+  },
+  {
+   "code": "IN",
+   "name": "India",
+   "name_it": "India",
+   "qid": "Q668",
+   "continent": "Asia"
+  },
+  {
+   "code": "IO",
+   "name": "British Indian Ocean Territory",
+   "name_it": "Territorio Britannico dell'Oceano Indiano",
+   "qid": "Q43448",
+   "continent": "Africa"
+  },
+  {
+   "code": "IQ",
+   "name": "Iraq",
+   "name_it": "Iraq",
+   "qid": "Q796",
+   "continent": "Asia"
+  },
+  {
+   "code": "IR",
+   "name": "Iran",
+   "name_it": "Iran",
+   "qid": "Q794",
+   "continent": "Asia"
+  },
+  {
+   "code": "IS",
+   "name": "Iceland",
+   "name_it": "Islanda",
+   "qid": "Q189",
+   "continent": "Europe"
+  },
+  {
+   "code": "IT",
+   "name": "Italy",
+   "name_it": "Italia",
+   "qid": "Q38",
+   "continent": "Europe"
+  },
+  {
+   "code": "JE",
+   "name": "Jersey",
+   "name_it": "Jersey",
+   "qid": "Q785",
+   "continent": "Europe"
+  },
+  {
+   "code": "JM",
+   "name": "Jamaica",
+   "name_it": "Giamaica",
+   "qid": "Q766",
+   "continent": "North America"
+  },
+  {
+   "code": "JO",
+   "name": "Jordan",
+   "name_it": "Giordania",
+   "qid": "Q810",
+   "continent": "Asia"
+  },
+  {
+   "code": "JP",
+   "name": "Japan",
+   "name_it": "Giappone",
+   "qid": "Q17",
+   "continent": "Asia"
+  },
+  {
+   "code": "KE",
+   "name": "Kenya",
+   "name_it": "Kenya",
+   "qid": "Q114",
+   "continent": "Africa"
+  },
+  {
+   "code": "KG",
+   "name": "Kyrgyzstan",
+   "name_it": "Kirghizistan",
+   "qid": "Q813",
+   "continent": "Asia"
+  },
+  {
+   "code": "KH",
+   "name": "Cambodia",
+   "name_it": "Cambogia",
+   "qid": "Q424",
+   "continent": "Asia"
+  },
+  {
+   "code": "KI",
+   "name": "Kiribati",
+   "name_it": "Kiribati",
+   "qid": "Q710",
+   "continent": "Oceania"
+  },
+  {
+   "code": "KM",
+   "name": "Comoros",
+   "name_it": "Comore",
+   "qid": "Q970",
+   "continent": "Africa"
+  },
+  {
+   "code": "KN",
+   "name": "Saint Kitts and Nevis",
+   "name_it": "Saint Kitts e Nevis",
+   "qid": "Q763",
+   "continent": "North America"
+  },
+  {
+   "code": "KP",
+   "name": "North Korea",
+   "name_it": "Corea del Nord",
+   "qid": "Q423",
+   "continent": "Asia"
+  },
+  {
+   "code": "KR",
+   "name": "South Korea",
+   "name_it": "Corea del Sud",
+   "qid": "Q884",
+   "continent": "Asia"
+  },
+  {
+   "code": "KW",
+   "name": "Kuwait",
+   "name_it": "Kuwait",
+   "qid": "Q817",
+   "continent": "Asia"
+  },
+  {
+   "code": "KY",
+   "name": "Cayman Islands",
+   "name_it": "Isole Cayman",
+   "qid": "Q5785",
+   "continent": "North America"
+  },
+  {
+   "code": "KZ",
+   "name": "Kazakhstan",
+   "name_it": "Kazakistan",
+   "qid": "Q232",
+   "continent": "Asia"
+  },
+  {
+   "code": "LA",
+   "name": "Laos",
+   "name_it": "Laos",
+   "qid": "Q819",
+   "continent": "Asia"
+  },
+  {
+   "code": "LB",
+   "name": "Lebanon",
+   "name_it": "Libano",
+   "qid": "Q822",
+   "continent": "Asia"
+  },
+  {
+   "code": "LC",
+   "name": "Saint Lucia",
+   "name_it": "Saint Lucia",
+   "qid": "Q760",
+   "continent": "North America"
+  },
+  {
+   "code": "LI",
+   "name": "Liechtenstein",
+   "name_it": "Liechtenstein",
+   "qid": "Q347",
+   "continent": "Europe"
+  },
+  {
+   "code": "LK",
+   "name": "Sri Lanka",
+   "name_it": "Sri Lanka",
+   "qid": "Q854",
+   "continent": "Asia"
+  },
+  {
+   "code": "LR",
+   "name": "Liberia",
+   "name_it": "Liberia",
+   "qid": "Q1014",
+   "continent": "Africa"
+  },
+  {
+   "code": "LS",
+   "name": "Lesotho",
+   "name_it": "Lesotho",
+   "qid": "Q1013",
+   "continent": "Africa"
+  },
+  {
+   "code": "LT",
+   "name": "Lithuania",
+   "name_it": "Lituania",
+   "qid": "Q37",
+   "continent": "Europe"
+  },
+  {
+   "code": "LU",
+   "name": "Luxembourg",
+   "name_it": "Lussemburgo",
+   "qid": "Q32",
+   "continent": "Europe"
+  },
+  {
+   "code": "LV",
+   "name": "Latvia",
+   "name_it": "Lettonia",
+   "qid": "Q211",
+   "continent": "Europe"
+  },
+  {
+   "code": "LY",
+   "name": "Libya",
+   "name_it": "Libia",
+   "qid": "Q1016",
+   "continent": "Africa"
+  },
+  {
+   "code": "MA",
+   "name": "Morocco",
+   "name_it": "Marocco",
+   "qid": "Q1028",
+   "continent": "Africa"
+  },
+  {
+   "code": "MC",
+   "name": "Monaco",
+   "name_it": "Principato di Monaco",
+   "qid": "Q235",
+   "continent": "Europe"
+  },
+  {
+   "code": "MD",
+   "name": "Moldova",
+   "name_it": "Moldavia",
+   "qid": "Q217",
+   "continent": "Europe"
+  },
+  {
+   "code": "ME",
+   "name": "Montenegro",
+   "name_it": "Montenegro",
+   "qid": "Q236",
+   "continent": "Europe"
+  },
+  {
+   "code": "MF",
+   "name": "Saint-Martin",
+   "name_it": "Saint-Martin",
+   "qid": "Q126125",
+   "continent": "North America"
+  },
+  {
+   "code": "MG",
+   "name": "Madagascar",
+   "name_it": "Madagascar",
+   "qid": "Q1019",
+   "continent": "Africa"
+  },
+  {
+   "code": "MH",
+   "name": "Marshall Islands",
+   "name_it": "Isole Marshall",
+   "qid": "Q709",
+   "continent": "Oceania"
+  },
+  {
+   "code": "MK",
+   "name": "North Macedonia",
+   "name_it": "Macedonia del Nord",
+   "qid": "Q221",
+   "continent": "Europe"
+  },
+  {
+   "code": "ML",
+   "name": "Mali",
+   "name_it": "Mali",
+   "qid": "Q912",
+   "continent": "Africa"
+  },
+  {
+   "code": "MM",
+   "name": "Myanmar",
+   "name_it": "Myanmar",
+   "qid": "Q836",
+   "continent": "Asia"
+  },
+  {
+   "code": "MN",
+   "name": "Mongolia",
+   "name_it": "Mongolia",
+   "qid": "Q711",
+   "continent": "Asia"
+  },
+  {
+   "code": "MO",
+   "name": "Macau",
+   "name_it": "Macao",
+   "qid": "Q14773",
+   "continent": "Asia"
+  },
+  {
+   "code": "MP",
+   "name": "Northern Mariana Islands",
+   "name_it": "Isole Marianne Settentrionali",
+   "qid": "Q16644",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "MQ",
+   "name": "Martinique",
+   "name_it": "Martinica",
+   "qid": "Q17054",
+   "continent": "North America"
+  },
+  {
+   "code": "MR",
+   "name": "Mauritania",
+   "name_it": "Mauritania",
+   "qid": "Q1025",
+   "continent": "Africa"
+  },
+  {
+   "code": "MS",
+   "name": "Montserrat",
+   "name_it": "Montserrat",
+   "qid": "Q13353",
+   "continent": "North America"
+  },
+  {
+   "code": "MT",
+   "name": "Malta",
+   "name_it": "Malta",
+   "qid": "Q233",
+   "continent": "Europe"
+  },
+  {
+   "code": "MU",
+   "name": "Mauritius",
+   "name_it": "Mauritius",
+   "qid": "Q1027",
+   "continent": "Africa"
+  },
+  {
+   "code": "MV",
+   "name": "Maldives",
+   "name_it": "Maldive",
+   "qid": "Q826",
+   "continent": "Asia"
+  },
+  {
+   "code": "MW",
+   "name": "Malawi",
+   "name_it": "Malawi",
+   "qid": "Q1020",
+   "continent": "Africa"
+  },
+  {
+   "code": "MX",
+   "name": "Mexico",
+   "name_it": "Messico",
+   "qid": "Q96",
+   "continent": "North America"
+  },
+  {
+   "code": "MY",
+   "name": "Malaysia",
+   "name_it": "Malaysia",
+   "qid": "Q833",
+   "continent": "Asia"
+  },
+  {
+   "code": "MZ",
+   "name": "Mozambique",
+   "name_it": "Mozambico",
+   "qid": "Q1029",
+   "continent": "Africa"
+  },
+  {
+   "code": "NA",
+   "name": "Namibia",
+   "name_it": "Namibia",
+   "qid": "Q1030",
+   "continent": "Africa"
+  },
+  {
+   "code": "NC",
+   "name": "New Caledonia",
+   "name_it": "Nuova Caledonia",
+   "qid": "Q33788",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "NE",
+   "name": "Niger",
+   "name_it": "Niger",
+   "qid": "Q1032",
+   "continent": "Africa"
+  },
+  {
+   "code": "NF",
+   "name": "Norfolk Island",
+   "name_it": "Isola Norfolk",
+   "qid": "Q31057",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "NG",
+   "name": "Nigeria",
+   "name_it": "Nigeria",
+   "qid": "Q1033",
+   "continent": "Africa"
+  },
+  {
+   "code": "NI",
+   "name": "Nicaragua",
+   "name_it": "Nicaragua",
+   "qid": "Q811",
+   "continent": "North America"
+  },
+  {
+   "code": "NL",
+   "name": "Kingdom of the Netherlands",
+   "name_it": "Regno dei Paesi Bassi",
+   "qid": "Q29999",
+   "continent": "Europe"
+  },
+  {
+   "code": "NO",
+   "name": "Norway",
+   "name_it": "Norvegia",
+   "qid": "Q20",
+   "continent": "Europe"
+  },
+  {
+   "code": "NP",
+   "name": "Nepal",
+   "name_it": "Nepal",
+   "qid": "Q837",
+   "continent": "Asia"
+  },
+  {
+   "code": "NR",
+   "name": "Naoero",
+   "name_it": "Nauru",
+   "qid": "Q697",
+   "continent": "Oceania"
+  },
+  {
+   "code": "NU",
+   "name": "Niue",
+   "name_it": "Niue",
+   "qid": "Q34020",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "NZ",
+   "name": "New Zealand",
+   "name_it": "Nuova Zelanda",
+   "qid": "Q664",
+   "continent": "Oceania"
+  },
+  {
+   "code": "OM",
+   "name": "Oman",
+   "name_it": "Oman",
+   "qid": "Q842",
+   "continent": "Asia"
+  },
+  {
+   "code": "PA",
+   "name": "Panama",
+   "name_it": "Panama",
+   "qid": "Q804",
+   "continent": "North America"
+  },
+  {
+   "code": "PE",
+   "name": "Peru",
+   "name_it": "Perù",
+   "qid": "Q419",
+   "continent": "South America"
+  },
+  {
+   "code": "PF",
+   "name": "French Polynesia",
+   "name_it": "Polinesia francese",
+   "qid": "Q30971",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "PG",
+   "name": "Papua New Guinea",
+   "name_it": "Papua Nuova Guinea",
+   "qid": "Q691",
+   "continent": "Oceania"
+  },
+  {
+   "code": "PH",
+   "name": "Philippines",
+   "name_it": "Filippine",
+   "qid": "Q928",
+   "continent": "Asia"
+  },
+  {
+   "code": "PK",
+   "name": "Pakistan",
+   "name_it": "Pakistan",
+   "qid": "Q843",
+   "continent": "Asia"
+  },
+  {
+   "code": "PL",
+   "name": "Poland",
+   "name_it": "Polonia",
+   "qid": "Q36",
+   "continent": "Europe"
+  },
+  {
+   "code": "PM",
+   "name": "Saint Pierre and Miquelon",
+   "name_it": "Saint-Pierre e Miquelon",
+   "qid": "Q34617",
+   "continent": "North America"
+  },
+  {
+   "code": "PN",
+   "name": "Pitcairn Islands",
+   "name_it": "Isole Pitcairn",
+   "qid": "Q35672",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "PR",
+   "name": "Puerto Rico",
+   "name_it": "Porto Rico",
+   "qid": "Q1183",
+   "continent": "North America"
+  },
+  {
+   "code": "PS",
+   "name": "Palestine",
+   "name_it": "Stato di Palestina",
+   "qid": "Q219060",
+   "continent": "Asia"
+  },
+  {
+   "code": "PT",
+   "name": "Portugal",
+   "name_it": "Portogallo",
+   "qid": "Q45",
+   "continent": "Europe"
+  },
+  {
+   "code": "PW",
+   "name": "Palau",
+   "name_it": "Palau",
+   "qid": "Q695",
+   "continent": "Oceania"
+  },
+  {
+   "code": "PY",
+   "name": "Paraguay",
+   "name_it": "Paraguay",
+   "qid": "Q733",
+   "continent": "South America"
+  },
+  {
+   "code": "QA",
+   "name": "Qatar",
+   "name_it": "Qatar",
+   "qid": "Q846",
+   "continent": "Asia"
+  },
+  {
+   "code": "RE",
+   "name": "Réunion",
+   "name_it": "Riunione",
+   "qid": "Q17070",
+   "continent": "Africa"
+  },
+  {
+   "code": "RO",
+   "name": "Romania",
+   "name_it": "Romania",
+   "qid": "Q218",
+   "continent": "Europe"
+  },
+  {
+   "code": "RS",
+   "name": "Serbia",
+   "name_it": "Serbia",
+   "qid": "Q403",
+   "continent": "Europe"
+  },
+  {
+   "code": "RU",
+   "name": "Russia",
+   "name_it": "Russia",
+   "qid": "Q159",
+   "continent": "Eurasia"
+  },
+  {
+   "code": "RW",
+   "name": "Rwanda",
+   "name_it": "Ruanda",
+   "qid": "Q1037",
+   "continent": "Africa"
+  },
+  {
+   "code": "SA",
+   "name": "Saudi Arabia",
+   "name_it": "Arabia Saudita",
+   "qid": "Q851",
+   "continent": "Asia"
+  },
+  {
+   "code": "SB",
+   "name": "Solomon Islands",
+   "name_it": "Isole Salomone",
+   "qid": "Q685",
+   "continent": "Oceania"
+  },
+  {
+   "code": "SC",
+   "name": "Seychelles",
+   "name_it": "Seychelles",
+   "qid": "Q1042",
+   "continent": "Africa"
+  },
+  {
+   "code": "SD",
+   "name": "Sudan",
+   "name_it": "Sudan",
+   "qid": "Q1049",
+   "continent": "Africa"
+  },
+  {
+   "code": "SE",
+   "name": "Sweden",
+   "name_it": "Svezia",
+   "qid": "Q34",
+   "continent": "Europe"
+  },
+  {
+   "code": "SG",
+   "name": "Singapore",
+   "name_it": "Singapore",
+   "qid": "Q334",
+   "continent": "Asia"
+  },
+  {
+   "code": "SH",
+   "name": "Saint Helena, Ascension and Tristan da Cunha",
+   "name_it": "Sant'Elena, Ascensione e Tristan da Cunha",
+   "qid": "Q192184",
+   "continent": "Africa"
+  },
+  {
+   "code": "SI",
+   "name": "Slovenia",
+   "name_it": "Slovenia",
+   "qid": "Q215",
+   "continent": "Europe"
+  },
+  {
+   "code": "SJ",
+   "name": "Svalbard and Jan Mayen",
+   "name_it": "Svalbard e Jan Mayen",
+   "qid": "Q842829",
+   "continent": "Europe"
+  },
+  {
+   "code": "SK",
+   "name": "Slovakia",
+   "name_it": "Slovacchia",
+   "qid": "Q214",
+   "continent": "Europe"
+  },
+  {
+   "code": "SL",
+   "name": "Sierra Leone",
+   "name_it": "Sierra Leone",
+   "qid": "Q1044",
+   "continent": "Africa"
+  },
+  {
+   "code": "SM",
+   "name": "San Marino",
+   "name_it": "San Marino",
+   "qid": "Q238",
+   "continent": "Europe"
+  },
+  {
+   "code": "SN",
+   "name": "Senegal",
+   "name_it": "Senegal",
+   "qid": "Q1041",
+   "continent": "Africa"
+  },
+  {
+   "code": "SO",
+   "name": "Somalia",
+   "name_it": "Somalia",
+   "qid": "Q1045",
+   "continent": "Africa"
+  },
+  {
+   "code": "SR",
+   "name": "Suriname",
+   "name_it": "Suriname",
+   "qid": "Q730",
+   "continent": "South America"
+  },
+  {
+   "code": "SS",
+   "name": "South Sudan",
+   "name_it": "Sudan del Sud",
+   "qid": "Q958",
+   "continent": "Africa"
+  },
+  {
+   "code": "ST",
+   "name": "São Tomé and Príncipe",
+   "name_it": "São Tomé e Príncipe",
+   "qid": "Q1039",
+   "continent": "Africa"
+  },
+  {
+   "code": "SV",
+   "name": "El Salvador",
+   "name_it": "El Salvador",
+   "qid": "Q792",
+   "continent": "North America"
+  },
+  {
+   "code": "SX",
+   "name": "Sint Maarten",
+   "name_it": "Sint Maarten",
+   "qid": "Q26273",
+   "continent": "North America"
+  },
+  {
+   "code": "SY",
+   "name": "Syria",
+   "name_it": "Siria",
+   "qid": "Q858",
+   "continent": "Asia"
+  },
+  {
+   "code": "SZ",
+   "name": "Eswatini",
+   "name_it": "Eswatini",
+   "qid": "Q1050",
+   "continent": "Africa"
+  },
+  {
+   "code": "TC",
+   "name": "Turks and Caicos Islands",
+   "name_it": "Turks e Caicos",
+   "qid": "Q18221",
+   "continent": "North America"
+  },
+  {
+   "code": "TD",
+   "name": "Chad",
+   "name_it": "Ciad",
+   "qid": "Q657",
+   "continent": "Africa"
+  },
+  {
+   "code": "TF",
+   "name": "French Southern and Antarctic Lands",
+   "name_it": "Terre Australi e Antartiche Francesi",
+   "qid": "Q129003",
+   "continent": "Antarctica"
+  },
+  {
+   "code": "TG",
+   "name": "Togo",
+   "name_it": "Togo",
+   "qid": "Q945",
+   "continent": "Africa"
+  },
+  {
+   "code": "TH",
+   "name": "Thailand",
+   "name_it": "Tailandia",
+   "qid": "Q869",
+   "continent": "Asia"
+  },
+  {
+   "code": "TJ",
+   "name": "Tajikistan",
+   "name_it": "Tagikistan",
+   "qid": "Q863",
+   "continent": "Asia"
+  },
+  {
+   "code": "TK",
+   "name": "Tokelau",
+   "name_it": "Tokelau",
+   "qid": "Q36823",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "TL",
+   "name": "Timor-Leste",
+   "name_it": "Timor Est",
+   "qid": "Q574",
+   "continent": "Asia"
+  },
+  {
+   "code": "TM",
+   "name": "Turkmenistan",
+   "name_it": "Turkmenistan",
+   "qid": "Q874",
+   "continent": "Asia"
+  },
+  {
+   "code": "TN",
+   "name": "Tunisia",
+   "name_it": "Tunisia",
+   "qid": "Q948",
+   "continent": "Africa"
+  },
+  {
+   "code": "TO",
+   "name": "Tonga",
+   "name_it": "Tonga",
+   "qid": "Q678",
+   "continent": "Oceania"
+  },
+  {
+   "code": "TR",
+   "name": "Turkey",
+   "name_it": "Turchia",
+   "qid": "Q43",
+   "continent": "Asia"
+  },
+  {
+   "code": "TT",
+   "name": "Trinidad and Tobago",
+   "name_it": "Trinidad e Tobago",
+   "qid": "Q754",
+   "continent": "North America"
+  },
+  {
+   "code": "TV",
+   "name": "Tuvalu",
+   "name_it": "Tuvalu",
+   "qid": "Q672",
+   "continent": "Oceania"
+  },
+  {
+   "code": "TW",
+   "name": "Taiwan",
+   "name_it": "Taiwan",
+   "qid": "Q865",
+   "continent": "Asia"
+  },
+  {
+   "code": "TZ",
+   "name": "Tanzania",
+   "name_it": "Tanzania",
+   "qid": "Q924",
+   "continent": "Africa"
+  },
+  {
+   "code": "UA",
+   "name": "Ukraine",
+   "name_it": "Ucraina",
+   "qid": "Q212",
+   "continent": "Europe"
+  },
+  {
+   "code": "UG",
+   "name": "Uganda",
+   "name_it": "Uganda",
+   "qid": "Q1036",
+   "continent": "Africa"
+  },
+  {
+   "code": "UM",
+   "name": "United States Minor Outlying Islands",
+   "name_it": "Isole minori esterne degli Stati Uniti d'America",
+   "qid": "Q16645",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "UN",
+   "name": "United Nations",
+   "name_it": "Organizzazione delle Nazioni Unite",
+   "qid": "Q1065",
+   "continent": ""
+  },
+  {
+   "code": "US",
+   "name": "United States",
+   "name_it": "Stati Uniti",
+   "qid": "Q30",
+   "continent": "North America"
+  },
+  {
+   "code": "US-AK",
+   "name": "Alaska",
+   "name_it": "Alaska",
+   "qid": "Q797",
+   "continent": "North America"
+  },
+  {
+   "code": "US-AL",
+   "name": "Alabama",
+   "name_it": "Alabama",
+   "qid": "Q173",
+   "continent": "North America"
+  },
+  {
+   "code": "US-AR",
+   "name": "Arkansas",
+   "name_it": "Arkansas",
+   "qid": "Q1612",
+   "continent": "North America"
+  },
+  {
+   "code": "US-AZ",
+   "name": "Arizona",
+   "name_it": "Arizona",
+   "qid": "Q816",
+   "continent": "North America"
+  },
+  {
+   "code": "US-CA",
+   "name": "California",
+   "name_it": "California",
+   "qid": "Q99",
+   "continent": "North America"
+  },
+  {
+   "code": "US-CO",
+   "name": "Colorado",
+   "name_it": "Colorado",
+   "qid": "Q1261",
+   "continent": "North America"
+  },
+  {
+   "code": "US-CT",
+   "name": "Connecticut",
+   "name_it": "Connecticut",
+   "qid": "Q779",
+   "continent": "North America"
+  },
+  {
+   "code": "US-DE",
+   "name": "Delaware",
+   "name_it": "Delaware",
+   "qid": "Q1393",
+   "continent": "North America"
+  },
+  {
+   "code": "US-FL",
+   "name": "Florida",
+   "name_it": "Florida",
+   "qid": "Q812",
+   "continent": "North America"
+  },
+  {
+   "code": "US-GA",
+   "name": "Georgia (USA)",
+   "name_it": "Georgia (USA)",
+   "qid": "Q1428",
+   "continent": "North America"
+  },
+  {
+   "code": "US-HI",
+   "name": "Hawaii",
+   "name_it": "Hawaii",
+   "qid": "Q782",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "US-IA",
+   "name": "Iowa",
+   "name_it": "Iowa",
+   "qid": "Q1546",
+   "continent": "North America"
+  },
+  {
+   "code": "US-ID",
+   "name": "Idaho",
+   "name_it": "Idaho",
+   "qid": "Q1221",
+   "continent": "North America"
+  },
+  {
+   "code": "US-IL",
+   "name": "Illinois",
+   "name_it": "Illinois",
+   "qid": "Q1204",
+   "continent": "North America"
+  },
+  {
+   "code": "US-IN",
+   "name": "Indiana",
+   "name_it": "Indiana",
+   "qid": "Q1415",
+   "continent": "North America"
+  },
+  {
+   "code": "US-KS",
+   "name": "Kansas",
+   "name_it": "Kansas",
+   "qid": "Q1558",
+   "continent": "North America"
+  },
+  {
+   "code": "US-KY",
+   "name": "Kentucky",
+   "name_it": "Kentucky",
+   "qid": "Q1603",
+   "continent": "North America"
+  },
+  {
+   "code": "US-LA",
+   "name": "Louisiana",
+   "name_it": "Louisiana",
+   "qid": "Q1588",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MA",
+   "name": "Massachusetts",
+   "name_it": "Massachusetts",
+   "qid": "Q771",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MD",
+   "name": "Maryland",
+   "name_it": "Maryland",
+   "qid": "Q1391",
+   "continent": "North America"
+  },
+  {
+   "code": "US-ME",
+   "name": "Maine",
+   "name_it": "Maine",
+   "qid": "Q724",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MI",
+   "name": "Michigan",
+   "name_it": "Michigan",
+   "qid": "Q1166",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MN",
+   "name": "Minnesota",
+   "name_it": "Minnesota",
+   "qid": "Q1527",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MO",
+   "name": "Missouri",
+   "name_it": "Missouri",
+   "qid": "Q1581",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MS",
+   "name": "Mississippi",
+   "name_it": "Mississippi",
+   "qid": "Q1494",
+   "continent": "North America"
+  },
+  {
+   "code": "US-MT",
+   "name": "Montana",
+   "name_it": "Montana",
+   "qid": "Q1212",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NC",
+   "name": "North Carolina",
+   "name_it": "Carolina del Nord",
+   "qid": "Q1454",
+   "continent": "North America"
+  },
+  {
+   "code": "US-ND",
+   "name": "North Dakota",
+   "name_it": "Dakota del Nord",
+   "qid": "Q1207",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NE",
+   "name": "Nebraska",
+   "name_it": "Nebraska",
+   "qid": "Q1553",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NH",
+   "name": "New Hampshire",
+   "name_it": "New Hampshire",
+   "qid": "Q759",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NJ",
+   "name": "New Jersey",
+   "name_it": "New Jersey",
+   "qid": "Q1408",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NM",
+   "name": "New Mexico",
+   "name_it": "Nuovo Messico",
+   "qid": "Q1522",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NV",
+   "name": "Nevada",
+   "name_it": "Nevada",
+   "qid": "Q1227",
+   "continent": "North America"
+  },
+  {
+   "code": "US-NY",
+   "name": "New York",
+   "name_it": "New York",
+   "qid": "Q1384",
+   "continent": "North America"
+  },
+  {
+   "code": "US-OH",
+   "name": "Ohio",
+   "name_it": "Ohio",
+   "qid": "Q1397",
+   "continent": "North America"
+  },
+  {
+   "code": "US-OK",
+   "name": "Oklahoma",
+   "name_it": "Oklahoma",
+   "qid": "Q1649",
+   "continent": "North America"
+  },
+  {
+   "code": "US-OR",
+   "name": "Oregon",
+   "name_it": "Oregon",
+   "qid": "Q824",
+   "continent": "North America"
+  },
+  {
+   "code": "US-PA",
+   "name": "Pennsylvania",
+   "name_it": "Pennsylvania",
+   "qid": "Q1400",
+   "continent": "North America"
+  },
+  {
+   "code": "US-RI",
+   "name": "Rhode Island",
+   "name_it": "Rhode Island",
+   "qid": "Q1387",
+   "continent": "North America"
+  },
+  {
+   "code": "US-SC",
+   "name": "South Carolina",
+   "name_it": "Carolina del Sud",
+   "qid": "Q1456",
+   "continent": "North America"
+  },
+  {
+   "code": "US-SD",
+   "name": "South Dakota",
+   "name_it": "Dakota del Sud",
+   "qid": "Q1211",
+   "continent": "North America"
+  },
+  {
+   "code": "US-TN",
+   "name": "Tennessee",
+   "name_it": "Tennessee",
+   "qid": "Q1509",
+   "continent": "North America"
+  },
+  {
+   "code": "US-TX",
+   "name": "Texas",
+   "name_it": "Texas",
+   "qid": "Q1439",
+   "continent": "North America"
+  },
+  {
+   "code": "US-UT",
+   "name": "Utah",
+   "name_it": "Utah",
+   "qid": "Q829",
+   "continent": "North America"
+  },
+  {
+   "code": "US-VA",
+   "name": "Virginia",
+   "name_it": "Virginia",
+   "qid": "Q1370",
+   "continent": "North America"
+  },
+  {
+   "code": "US-VT",
+   "name": "Vermont",
+   "name_it": "Vermont",
+   "qid": "Q16551",
+   "continent": "North America"
+  },
+  {
+   "code": "US-WA",
+   "name": "Washington",
+   "name_it": "Washington",
+   "qid": "Q1223",
+   "continent": "North America"
+  },
+  {
+   "code": "US-WI",
+   "name": "Wisconsin",
+   "name_it": "Wisconsin",
+   "qid": "Q1537",
+   "continent": "North America"
+  },
+  {
+   "code": "US-WV",
+   "name": "West Virginia",
+   "name_it": "Virginia Occidentale",
+   "qid": "Q1371",
+   "continent": "North America"
+  },
+  {
+   "code": "US-WY",
+   "name": "Wyoming",
+   "name_it": "Wyoming",
+   "qid": "Q1214",
+   "continent": "North America"
+  },
+  {
+   "code": "UY",
+   "name": "Uruguay",
+   "name_it": "Uruguay",
+   "qid": "Q77",
+   "continent": "South America"
+  },
+  {
+   "code": "UZ",
+   "name": "Uzbekistan",
+   "name_it": "Uzbekistan",
+   "qid": "Q265",
+   "continent": "Asia"
+  },
+  {
+   "code": "VA",
+   "name": "Vatican City",
+   "name_it": "Città del Vaticano",
+   "qid": "Q237",
+   "continent": "Europe"
+  },
+  {
+   "code": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "name_it": "Saint Vincent e Grenadine",
+   "qid": "Q757",
+   "continent": "North America"
+  },
+  {
+   "code": "VE",
+   "name": "Venezuela",
+   "name_it": "Venezuela",
+   "qid": "Q717",
+   "continent": "South America"
+  },
+  {
+   "code": "VG",
+   "name": "British Virgin Islands",
+   "name_it": "Isole Vergini Britanniche",
+   "qid": "Q25305",
+   "continent": "North America"
+  },
+  {
+   "code": "VI",
+   "name": "United States Virgin Islands",
+   "name_it": "Isole Vergini degli Stati Uniti",
+   "qid": "Q11703",
+   "continent": "North America"
+  },
+  {
+   "code": "VN",
+   "name": "Vietnam",
+   "name_it": "Vietnam",
+   "qid": "Q881",
+   "continent": "Asia"
+  },
+  {
+   "code": "VU",
+   "name": "Vanuatu",
+   "name_it": "Vanuatu",
+   "qid": "Q686",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "WF",
+   "name": "Wallis and Futuna",
+   "name_it": "Wallis e Futuna",
+   "qid": "Q35555",
+   "continent": "Insular Oceania"
+  },
+  {
+   "code": "WS",
+   "name": "Samoa",
+   "name_it": "Samoa",
+   "qid": "Q683",
+   "continent": "Oceania"
+  },
+  {
+   "code": "XK",
+   "name": "Kosovo",
+   "name_it": "Kosovo",
+   "qid": "Q1246",
+   "continent": "Europe"
+  },
+  {
+   "code": "YE",
+   "name": "Yemen",
+   "name_it": "Yemen",
+   "qid": "Q805",
+   "continent": "Asia"
+  },
+  {
+   "code": "YT",
+   "name": "Mayotte",
+   "name_it": "Mayotte",
+   "qid": "Q17063",
+   "continent": "Africa"
+  },
+  {
+   "code": "ZA",
+   "name": "South Africa",
+   "name_it": "Sudafrica",
+   "qid": "Q258",
+   "continent": "Africa"
+  },
+  {
+   "code": "ZM",
+   "name": "Zambia",
+   "name_it": "Zambia",
+   "qid": "Q953",
+   "continent": "Africa"
+  },
+  {
+   "code": "ZW",
+   "name": "Zimbabwe",
+   "name_it": "Zimbabwe",
+   "qid": "Q954",
+   "continent": "Africa"
+  }
+ ]
+}

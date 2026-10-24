@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+
+# Runtime data
+*.sqlite
+*.sqlite3
+*.db
+data/cache/flag-svgs/*
+!data/cache/flag-svgs/.gitkeep
+
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Toolchain (local standalone node)
+.tools/node/
+
+# PyInstaller build artifacts
+build/
+*.spec.bak
+
+# Runtime caches and personal data (regenerated)
+data/cache/world-flags/*
+!data/cache/world-flags/.gitkeep
+data/cache/country_info/
+data/cache/flag_views.json
+data/cache/*.tmp
+data/leaderboard.json
+data/review/*
+!data/review/.gitkeep
+
+# Logs
+*.log
+
+# Local toolchain (GitHub CLI)
+.tools/gh/
