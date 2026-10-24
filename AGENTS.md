@@ -4,10 +4,28 @@ Il repo produce DUE deliverable:
 1. **Versione web**: backend FastAPI (uvicorn) + frontend (vite) servito dal backend.
 2. **App desktop macOS**: bundle PyInstaller in `packaging/dist/QuiZ Bandiere.app`.
 
-## Regola obbligatoria
+## Regola obbligatoria: app desktop
 **OGNI fix o modifica apportata a `backend/` o `frontend/` deve essere SEMPRE
 inclusa anche nell'app desktop `.app`.** Mai consegnare un fix solo per il web:
 dopo ogni modifica ricompilare il bundle e rigenerare lo zip.
+
+## Regola obbligatoria: pubblicazione su GitHub
+**OGNI aggiornamento o modifica deve essere SEMPRE committato e pushato su
+GitHub a fine lavoro.** Mai consegnare modifiche solo in locale.
+Repo privato: <https://github.com/alepifani-admin/quiz-bandiere> (branch `main`).
+
+```bash
+cd "/Users/alessandro/Documents/QuiZ Bandiere"
+git add -A
+git diff --cached --name-only   # verificare: niente .venv/node_modules/dist/build/.env/dati personali
+git -c user.name="alepifani-admin" \
+    -c user.email="325175995+alepifani-admin@users.noreply.github.com" \
+    commit -m "Descrizione breve della modifica"
+git push origin main
+```
+- GitHub CLI locale: `.tools/gh/bin/gh` (ignorata da git); l'accesso è nel portachiavi macOS (`gh auth status` per verificare).
+- Il bundle `.app` e lo `.zip` restano locali in `packaging/dist/` (ignorato da git); su GitHub va il codice sorgente e i dati di baseline.
+- Non pubblicare (già in `.gitignore`): `.venv/`, `node_modules/`, `dist/`, `build/`, `.tools/gh/`, `.env`, `data/leaderboard.json`, `data/cache/country_info/`, `data/cache/*-flags/`, `data/cache/flag_views.json`.
 
 ## Avvio versione web (dev)
 ```bash
